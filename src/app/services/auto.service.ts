@@ -5,7 +5,8 @@ import { Auto } from '../model/auto';
 // const base_url = "http://localhost:3000/autos"
 // const base_url = "https://scaling-fortnight-r75vg654x53xw4q-3000.app.github.dev/autos"
 //const base_url = 'http://127.0.0.1:3000/autos'
-const base_url = 'http://localhost:8081/api/auto'
+// const base_url = 'http://localhost:8081/api/auto'
+const base_url = 'https://auto-api-inbf.onrender.com/api/auto'
 
 @Injectable({
   providedIn: 'root'
